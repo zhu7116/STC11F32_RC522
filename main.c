@@ -96,7 +96,7 @@ void main(void)
 
     lcdInitinal();
 	
-    lcdMsg("Ð¤ÖñÓ¢1",1,0);
+    lcdMsg("Ð¤ÖñÓ¢",1,0);
 	lcdMsg("ÎïÁªÍø¿Î³Ì",2,0);
 	lcdMsg("XXX",3,0);
     lcdMsg("www.zcmu.edu.cn",4,0);
